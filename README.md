@@ -13,7 +13,7 @@ else
 }
 ```
 
-Messaging platforms share a common, incorrect assumption:  that interruptions are good.  Notifications, which are interruptions, are enabled by default, and the platforms make great effort to reduce the difficulty of sending these interruptions.  What we need is a messaging platform that respects our need to focus.  Enter slow. chat.
+Messaging platforms share a common, incorrect assumption:  that interruptions are good.  Notifications, which are interruptions, are enabled by default, and the platforms make great effort to reduce the difficulty of sending these interruptions.  What we need is a messaging platform that respects our need to focus.  Enter "slow. chat."
 
 ## Feature Set
 
